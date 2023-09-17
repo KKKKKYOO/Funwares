@@ -1,0 +1,6 @@
+﻿  dllmain.c
+C:\Users\yooka\Desktop\NJ_Injection\NewJeansDll\NewJeansDll\dllmain.c(12,41): warning C4133: 'function': incompatible types - from 'char [5]' to 'LPCWSTR'
+C:\Users\yooka\Desktop\NJ_Injection\NewJeansDll\NewJeansDll\dllmain.c(12,55): warning C4133: 'function': incompatible types - from 'char [512]' to 'LPCWSTR'
+C:\Users\yooka\Desktop\NJ_Injection\NewJeansDll\NewJeansDll\dllmain.c(13,19): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+C:\Users\yooka\Desktop\NJ_Injection\NewJeansDll\NewJeansDll\dllmain.c(14,64): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+  NewJeansDll.vcxproj -> C:\Users\yooka\Desktop\NJ_Injection\NewJeansDll\x64\Debug\NewJeansDll.dll

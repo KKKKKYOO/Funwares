@@ -1,0 +1,14 @@
+﻿  DllInjectiionThread.c
+C:\Users\yooka\Desktop\NJ_Injection\DllInjection\DllInjection\DllInjectiionThread.c(19,12): warning C4047: 'initializing': 'SIZE_T' differs in levels of indirection from 'void *'
+C:\Users\yooka\Desktop\NJ_Injection\DllInjection\DllInjection\DllInjectiionThread.c(65,12): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SIZE_T'
+C:\Users\yooka\Desktop\NJ_Injection\DllInjection\DllInjection\DllInjectiionThread.c(65,12): message : consider using '%lld' in the format string
+C:\Users\yooka\Desktop\NJ_Injection\DllInjection\DllInjection\DllInjectiionThread.c(65,12): message : consider using '%Id' in the format string
+C:\Users\yooka\Desktop\NJ_Injection\DllInjection\DllInjection\DllInjectiionThread.c(65,12): message : consider using '%I64d' in the format string
+C:\Users\yooka\Desktop\NJ_Injection\DllInjection\DllInjection\DllInjectiionThread.c(70,55): warning C4047: 'function': 'SIZE_T' differs in levels of indirection from 'void *'
+C:\Users\yooka\Desktop\NJ_Injection\DllInjection\DllInjection\DllInjectiionThread.c(70,51): warning C4024: 'CreateRemoteThread': different types for formal and actual parameter 3
+C:\Users\yooka\Desktop\NJ_Injection\DllInjection\DllInjection\DllInjectiionThread.c(70,86): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\yooka\Desktop\NJ_Injection\DllInjection\DllInjection\DllInjectiionThread.c(70,82): warning C4024: 'CreateRemoteThread': different types for formal and actual parameter 6
+C:\Users\yooka\Desktop\NJ_Injection\DllInjection\DllInjection\DllInjectiionThread.c(100,67): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\yooka\Desktop\NJ_Injection\DllInjection\DllInjection\DllInjectiionThread.c(100,63): warning C4024: 'CreateToolhelp32Snapshot': different types for formal and actual parameter 2
+C:\Users\yooka\Desktop\NJ_Injection\DllInjection\DllInjection\DllInjectiionThread.c(152,11): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+  DllInjection.vcxproj -> C:\Users\yooka\Desktop\NJ_Injection\DllInjection\x64\Debug\DllInjection.exe
